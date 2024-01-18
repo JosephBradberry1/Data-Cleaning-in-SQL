@@ -1,1 +1,1 @@
-In this project I use Covid-19 Data from https://ourworldindata.org/covid-deaths. I delve into the data taking advantage of skills such as Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
+In this project I use Covid-19 Data from https://ourworldindata.org/covid-deaths to delve into the data, taking advantage of skills such as Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types in SQL.
